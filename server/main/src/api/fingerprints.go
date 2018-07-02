@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/schollz/find3/server/main/src/database"
-	"github.com/schollz/find3/server/main/src/models"
+	"github.com/doneva593/wifisystem/server/main/src/database"
+	"github.com/doneva593/wifisystem/server/main/src/models"
 )
 
 type UpdateCounterMap struct {
