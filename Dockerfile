@@ -1,6 +1,6 @@
-# docker build -t find3 .
+# docker build -t wifisystem .
 # mkdir /tmp/find3
-# docker run -p 11883:1883 -p 8003:8003 -v /tmp/find3:/data -t find3
+# docker run -p 11883:1883 -p 8003:8003 -v /tmp/wifisystem:/data -t wifisystem
 
 FROM ubuntu:17.10
 
