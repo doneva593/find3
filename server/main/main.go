@@ -11,10 +11,10 @@ import (
 
 	"fmt"
 
-	"github.com/schollz/find3/server/main/src/api"
-	"github.com/schollz/find3/server/main/src/database"
-	"github.com/schollz/find3/server/main/src/mqtt"
-	"github.com/schollz/find3/server/main/src/server"
+	"github.com/doneva593/wifisystem/main/src/api"
+	"github.com/doneva593/wifisystem/main/src/database"
+	"github.com/doneva593/wifisystem/main/src/mqtt"
+	"github.com/doneva593/wifisystem/main/src/server"
 )
 
 func main() {
