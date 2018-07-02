@@ -13,11 +13,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/schollz/find3/server/main/src/database"
-	"github.com/schollz/find3/server/main/src/learning/nb1"
-	"github.com/schollz/find3/server/main/src/learning/nb2"
-	"github.com/schollz/find3/server/main/src/models"
-	"github.com/schollz/find3/server/main/src/utils"
+	"github.com/doneva593/wifisystem/server/main/src/database"
+	"github.com/doneva593/wifisystem/server/main/src/learning/nb1"
+	"github.com/doneva593/wifisystem/server/main/src/learning/nb2"
+	"github.com/doneva593/wifisystem/server/main/src/models"
+	"github.com/doneva593/wifisystem/server/main/src/utils"
 )
 
 // Calibrate will send the sensor data for a specific family to the machine learning algorithms
